@@ -9,7 +9,7 @@ A fast and flexible web-based todo list app. No account required.
 
 </p>
 
-<img style="border-radius:10px;" src="![Capture1](https://github.com/user-attachments/assets/75ed414d-c6e9-4d49-a589-545692ad8ac2)
+<img style="border-radius:10px;" src="https://github.com/user-attachments/assets/75ed414d-c6e9-4d49-a589-545692ad8ac2)
 ">
 
 
